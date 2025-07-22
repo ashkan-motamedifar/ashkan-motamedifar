@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ashkan Motamedifar</h1>
+<h1 align="center">Hi , I'm Ashkan</h1>
 
 <p align="center">
 🎓 Master's student in Data Science & AI at Université de Strasbourg  
