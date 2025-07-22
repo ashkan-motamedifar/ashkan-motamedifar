@@ -1,16 +1,42 @@
-## Hi there 👋
+# Ashkan Motamedifar
 
-<!--
-**ashkan-motamedifar/ashkan-motamedifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master’s Student in Data Science & Artificial Intelligence**  
+Université de Strasbourg, France
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education
+
+- **2025–2027:** Master’s in Data Science & AI – Université de Strasbourg  
+- **2022–2025:** Bachelor’s in Computer Science – Université de Strasbourg  
+
+---
+
+## 💻 Projects
+
+- 🎮 **Roll, Climb, Sabotage!** – Multiplayer Unity game using Netcode  
+- 🎲 **Snake and Ladders** – Android board game app with dice logic in Kotlin  
+- 📊 **Decision Tree Ensemble** – Classification project with scikit-learn  
+- 🎵 **Musical Quiz App** – Kotlin-based quiz app with Firebase
+
+---
+
+## 🧠 Experience
+
+- 🤝 **Volunteer @ European Youth Event 2025** – Team coordination & accessibility  
+- 🛠️ **Technical Intern** – Assisted in Python automation scripts for a lab project  
+- 🌍 **Multicultural Collaboration** – Projects in international teams during Erasmus  
+
+---
+
+## 📝 Blog
+
+🧪 Coming soon: Articles on AI, data science, and tech reflections
+
+---
+
+## 📫 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/)  
+or email me at: `your.email@example.com`
+
