@@ -1,42 +1,20 @@
-# Ashkan Motamedifar
+<h1 align="center">Hi , I'm Ashkan Motamedifar</h1>
 
-🎓 **Master’s Student in Data Science & Artificial Intelligence**  
-Université de Strasbourg, France
-
----
-
-## Education
-
-- **2025–2027:** Master’s in Data Science & AI – Université de Strasbourg  
-- **2022–2025:** Bachelor’s in Computer Science – Université de Strasbourg  
+<p align="center">
+🎓 Master's student in Data Science & AI at Université de Strasbourg  
+<br> Passionate about learning, building
+<br>📍 Based in France | Open to opportunities worldwide  
+</p>
 
 ---
 
-## Projects
+### Technologies I Use
 
--  **Roll, Climb, Sabotage!** – Multiplayer Unity game using Netcode  
-- **Snake and Ladders** – Android board game app with dice logic in Kotlin  
--  **Decision Tree Ensemble** – Classification project with scikit-learn  
-- **Musical Quiz App** – Kotlin-based quiz app with Firebase
-
----
-
-##  Experience
-
--  **Volunteer @ European Youth Event 2025** – Team coordination & accessibility  
--  **Technical Intern** – Assisted in Python automation scripts for a lab project  
--  **Multicultural Collaboration** – Projects in international teams during Erasmus  
-
----
-
-## Blog
-
-Coming soon: Articles on AI, data science, and tech reflections
-
----
-
-## Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/)  
-or email me at: `ashkanmotamedifar@gmail.com`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
