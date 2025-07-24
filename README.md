@@ -26,3 +26,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashkan--motamedifar-blue?logo=linkedin)](https://linkedin.com/in/ashkan-motamedifar)  
 📧 ashkanmotamedifar@gmail.com
+
+<!-- <meta name="google-site-verification" content="6W1l06-JcilsbWNuzgD4TUk3Aq1wnIMwKIqXPbj6V7g" /> -->
+
