@@ -1,6 +1,5 @@
-<meta name="google-site-verification" content="6W1l06-JcilsbWNuzgD4TUk3Aq1wnIMwKIqXPbj6V7g" />
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=500&lines=Hi%2C+I'm+Ashkan!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=500&lines=Hi%2C+I'm+Ashkan+Motamedifar!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
