@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-🎓 Master's student in Data Science & AI at Université de Strasbourg  
-<br>💡 Passionate about learning, building, and solving problems with data  
-<br>📍 Based in France | Ready to collaborate globally  
+🎓 Master’s student in Data Science & AI at Université de Strasbourg <br>
+  🔍 Curious about extracting insights and solving real-world problems through data <br>
+  📍 Based in France | Open to international collaboration and learning opportunities
 </p>
 
 ---
