@@ -5,7 +5,7 @@
 <p align="center">
 🎓 Master’s student in Data Science & AI at Université de Strasbourg <br>
   🔍 Curious about extracting insights and solving real-world problems through data <br>
-  📍 Based in France | Open to international collaboration and learning opportunities
+  📍 Based in France | Open to collaboration and learning opportunities
 </p>
 
 ---
