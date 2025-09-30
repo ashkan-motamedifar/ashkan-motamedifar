@@ -26,6 +26,5 @@
 ---
 
 <p align="center">
-   🔗 Here you can find my academic and personal projects
+   📂 Here you can find my academic and personal projects
 </p>
-
