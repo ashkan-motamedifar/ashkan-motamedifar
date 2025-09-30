@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&width=500&lines=Hi%2C+I'm+Ashkan+Motamedifar!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&width=500&lines=Hi%2C+I'm+Ashkan+Motamedifar!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-###  Technologies I Use
+### ⚙️ Technologies I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,3 +24,8 @@
 </p>
 
 ---
+
+<p align="center">
+   🔗 Here you can find my academic and personal projects
+</p>
+
