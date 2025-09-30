@@ -1,17 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=500&lines=Hi%2C+I'm+Ashkan+Motamedifar!" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Ashkan Motamedifar</h1>
 
 <p align="center">
-   Master’s student in Data Science and AI at Université de Strasbourg <br><br>
-   Based in France · Interested in scientific and interdisciplinary applications · Open to collaboration
+  MSc student in Data Science & AI at Université de Strasbourg <br>
+  Interested in data science, AI, and interdisciplinary applications <br>
+  Based in France · Open to collaboration
 </p>
-
 
 ---
 
-###  Technologies I Use
-
+### ⚙️ Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -23,10 +20,10 @@
 
 ---
 
-###  Contact Me
-
+### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashkan--motamedifar-blue?logo=linkedin)](https://linkedin.com/in/ashkan-motamedifar)  
 📧 ashkanmotamedifar@gmail.com
+
 
 
 
