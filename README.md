@@ -24,12 +24,3 @@
 </p>
 
 ---
-
-###  Contact Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ashkan-motamedifar">
-    <img src="https://img.shields.io/badge/LinkedIn-ashkan--motamedifar-blue?logo=linkedin" />
-  </a><br>
-  📧 ashkanmotamedifar@gmail.com
-</p>
